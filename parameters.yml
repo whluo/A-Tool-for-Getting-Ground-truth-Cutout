@@ -1,0 +1,8 @@
+%YAML:1.0
+Parameters:
+   first_index: 100
+   last_index: 105
+   img_prefix: boat\\
+   img_extension: jpg
+   gt_file_name: groundtruth.txt
+   
